@@ -1,0 +1,28 @@
+{
+  "name": "fis3-parser-translate-es3ify",
+  "version": "0.0.1",
+  "description": "FIS3 transform to convert ES5 syntax to be ES3-compatible",
+  "main": "index.js",
+  "dependencies": {
+    "es3ify": "^0.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codering/fis3-parser-translate-es3ify.git"
+  },
+  "keywords": [
+    "FIS3",
+    "ES5",
+    "ES3"
+  ],
+  "author": "codering",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codering/fis3-parser-translate-es3ify/issues"
+  },
+  "homepage": "https://github.com/codering/fis3-parser-translate-es3ify#readme"
+}
