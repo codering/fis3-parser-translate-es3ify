@@ -4,7 +4,7 @@
   "description": "FIS3 transform to convert ES5 syntax to be ES3-compatible",
   "main": "index.js",
   "dependencies": {
-    "es3ify": "^0.1.4"
+    "es3ify": "^0.2.2"
   },
   "devDependencies": {},
   "scripts": {
